@@ -6,7 +6,9 @@ Main menu features the play button, scoreboard, and settings, alongside the exit
 # Version History
 Version 1.0.0:
 - First upload!
-
+# Created by 
+- Jorge Millet-Nieves
+- Carlos Rivera
 
 # References 
 - OpenAI. (2025, April). ChatGPT (GPT-4-turbo) [Large language model]. https://chat.openai.com
