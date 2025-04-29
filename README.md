@@ -13,4 +13,5 @@ Version 1.0.0:
 # References 
 - OpenAI. (2025, April). ChatGPT (GPT-4-turbo) [Large language model]. https://chat.openai.com
 - Clavier-Music. (2025, January 28). Calm classical piano melody [Song]. Pixabay. https://pixabay.com/music/modern-classical-calm-classical-piano-melody-293695/
+- Komppa, J. (2020, February 7). SoLoud audio engine (Version 20200207) [C++ library]. https://github.com/jarikomppa/soloud
 
